@@ -1,7 +1,3 @@
-Here’s an improved version of the README for your GitHub repository:
-
----
-
 # Restaurant Management System 🍽️
 
 This project is a full-featured Restaurant Management System designed using Database Management System (DBMS) principles and Software Engineering practices. It includes a web interface built with Streamlit to interact seamlessly with the database for streamlined restaurant operations.
