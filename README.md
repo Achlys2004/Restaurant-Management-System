@@ -1,2 +1,5 @@
 # Restaurant-Management-System
-Databse Management System and Software Engineering Project
+Database Management System and Software Engineering Project
+
+To run the project:
+Create a schema in
