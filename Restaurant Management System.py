@@ -9,7 +9,7 @@ from typing import Dict, List, Tuple, Optional
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "N3wDelhi",
+    "password": "password",
     "database": "restaurant_db",
 }
 
