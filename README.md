@@ -2,6 +2,8 @@
 
 This project is a full-featured Restaurant Management System designed using Database Management System (DBMS) principles and Software Engineering practices. It includes a web interface built with Streamlit to interact seamlessly with the database for streamlined restaurant operations.
 
+Done by Ajaybir Singh(042) And Aathil Nishad(011)
+
 ## Getting Started
 
 Follow the steps below to set up and run this project on your local machine.
