@@ -17,7 +17,7 @@ Follow the steps below to set up and run this project on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Restaurant-Management-System.git
+   git clone https://github.com/Achlys2004/Restaurant-Management-System.git
    cd Restaurant-Management-System
    ```
 
